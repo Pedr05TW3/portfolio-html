@@ -120,7 +120,7 @@ body{
     width: 40%;
 }
 @media (max-width: 1200px){
-    }
+    
     .cabecalho{
         padding: 5vw 0vw 5vw 10vw;
     } 
@@ -139,6 +139,7 @@ body{
    .rodape{
     width: 100%;
    }
+}
    @media (max-width: 600px){
    .apresentacao_links_navegacao{
     width: 80%;
@@ -150,4 +151,4 @@ body{
         width: 60%;
     }
    
-}
+   }
