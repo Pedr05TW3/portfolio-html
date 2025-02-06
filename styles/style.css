@@ -144,6 +144,9 @@ body{
    .apresentacao_links_navegacao{
     width: 80%;
    }
+   .apresentacao_links_navegacao:hover{
+    width: 90%;
+   }
     .apresentacao_links{
         text-align: center;
     }
